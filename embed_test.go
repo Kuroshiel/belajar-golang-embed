@@ -16,4 +16,5 @@ var version2 string
 
 func TestString(t *testing.T) {
 	fmt.Println(version)
+	fmt.Println(version2)
 }
